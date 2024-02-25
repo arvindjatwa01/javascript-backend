@@ -1,0 +1,16 @@
+{
+  "name": "javascript-backend",
+  "version": "1.0.0",
+  "description": "full backend learning using javascript zero to hero",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "javascript",
+    "backedn",
+    "nodejs"
+  ],
+  "author": "Arvind Jatwa",
+  "license": "ISC"
+}
